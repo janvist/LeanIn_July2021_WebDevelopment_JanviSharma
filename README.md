@@ -1,2 +1,0 @@
-# LeanIn_July2021_WebDevelopment_JanviSharma
-THIS REPO IS FOR A DIGITAL CLOCK I MADE USING HTML, CSS AND JS
